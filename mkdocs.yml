@@ -7,6 +7,7 @@ repo_url: https://github.com/nidhish2211/VeriHire
 
 theme:
   name: material
+  logo: logo.jpg
 
   features:
     - navigation.tabs
@@ -18,25 +19,11 @@ theme:
     - content.code.copy
 
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
 
 nav:
   - Home: index.md
-  - Project:
-      - Problem Statement: problem-statement.md
-      - Objectives: objectives.md
-      - Methodology: methodology.md
-      - System Architecture: architecture.md
-      - Implementation: implementation.md
   - Journals:
       - Journal Home: journals/index.md
