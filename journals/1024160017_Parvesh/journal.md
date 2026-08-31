@@ -1,4 +1,4 @@
-# Weekly Progress Journal — Nidhish (Roll No: 1024160017)
+# Weekly Progress Journal — Parvesh (Roll No: 1024160017)
 
 **Project Name:** VeriHire (AI-Powered Resume Verification and Hiring Platform)
 **Role:** ML & Full-Stack Developer
